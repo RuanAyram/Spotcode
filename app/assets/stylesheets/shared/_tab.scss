@@ -1,0 +1,27 @@
+div.tabs.shared {
+    li {
+        a {
+            //color: $white;
+            color: white;
+        }
+
+        &.is-active {
+            a {
+                //color: $primary;
+                //border-bottom-color: $primary;
+                color: green;
+                border-bottom-color: green;
+            }
+        }
+    }
+}
+
+div.tabs-content {
+    div.tab-item {
+        display: none;
+
+        &.active {
+            display: block;
+        }
+    }
+}
