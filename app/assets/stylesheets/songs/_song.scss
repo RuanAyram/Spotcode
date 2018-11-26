@@ -1,9 +1,12 @@
 div.song-item {
-    //border-top: 1px solid $white;
     border-top: 1px solid white;
 
     div.play-button {
         margin-top: 12px;
+    }
+
+    div.favorite {
+        margin-top: 10px;
     }
 
     &:first-child {

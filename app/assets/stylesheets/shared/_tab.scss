@@ -1,14 +1,11 @@
 div.tabs.shared {
     li {
         a {
-            //color: $white;
             color: white;
         }
 
         &.is-active {
             a {
-                //color: $primary;
-                //border-bottom-color: $primary;
                 color: green;
                 border-bottom-color: green;
             }
@@ -22,6 +19,10 @@ div.tabs-content {
 
         &.active {
             display: block;
+        }
+
+        button#play-all{
+            margin-bottom: 15px;
         }
     }
 }

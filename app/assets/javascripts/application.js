@@ -15,3 +15,4 @@
 //= require turbolinks
 //= require jquery/dist/jquery.min
 //= require_tree .
+//= require serviceworker-companion
