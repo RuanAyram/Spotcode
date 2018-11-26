@@ -1,3 +1,11 @@
+@import "mixins/all-mixin";
+
 .new_user {
-    margin-top: 85px;
+    .label, .checkbox {
+        color: white;
+    }
+
+    section {
+        @include border-opacity(#ffffff, 0.35);
+    }
 }
