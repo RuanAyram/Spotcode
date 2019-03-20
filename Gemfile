@@ -39,7 +39,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # Autenticação
-gem 'devise', '~> 4.5.0'
+gem 'devise'
 
 # Progressive Web Apps for Rails
 gem 'pwa', '~> 4.0.5'
