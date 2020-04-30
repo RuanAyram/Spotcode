@@ -5,7 +5,7 @@
     "@fortawesome/fontawesome-free": "^5.5.0",
     "@rails/webpacker": "4.0.6",
     "bulma": "0.7.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.1.14"
