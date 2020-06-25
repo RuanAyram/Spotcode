@@ -123,7 +123,7 @@ GEM
     pwa (4.0.5)
       mozaic (~> 2.0)
       railties (~> 5.2)
-    rack (2.0.8)
+    rack (2.2.3)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
