@@ -120,7 +120,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     public_suffix (4.0.6)
-    puma (4.3.8)
+    puma (4.3.12)
       nio4r (~> 2.0)
     pwa (4.0.5)
       mozaic (~> 2.0)
